@@ -29,4 +29,4 @@ panorama_194E6020_0DB5_FB7B_419F_C7D008A12987.label = Training 1
 ### Beschreibung
 
 ### Titel
-tour.name = Unbenannt 3
+tour.name = 2G TrainingCenter
