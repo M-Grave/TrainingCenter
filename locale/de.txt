@@ -1,0 +1,32 @@
+#: locale=de
+
+## Media
+
+### Titel
+panorama_1120432C_0D94_FD5A_41AA_39981A55B2E5.label = 24_Training 2
+panorama_17E978DD_0D94_ECFB_41A0_AF69696D1A4F.label = 25_Training 3
+panorama_1B813F66_0DB4_E5C6_41A6_28B5BE451CB9.label = Eingang Praxisbereich
+panorama_1953857B_0DB4_A5CE_417C_672D93C20B58.label = Foyer Eingang
+panorama_194FCB6D_0DB4_ADC5_41A6_84F5AC21F359.label = Foyer Kaffemaschine
+panorama_194FD165_0DB4_BDC5_417C_F813BEA9CEE7.label = Foyer Mitte
+panorama_194FCE2D_0DB4_A745_41A9_B59AA0CBDF36.label = Foyer Pausenbereich
+panorama_194E07C8_0DB4_A4CA_41A2_EE837004F536.label = Foyer oben
+panorama_194E351F_0DB4_6545_41AB_5DEAAE554988.label = Praxisbereich Anfang
+panorama_194FEB95_0DB4_6D45_41A4_1BEFB692550B.label = Praxisbereich B-C-Serie
+panorama_194E1EB6_0DB4_6747_41A1_F36B91C2DC6B.label = Praxisbereich G-Box
+panorama_194FF812_0DB4_6B5E_41AA_52870AF9CD63.label = Praxisbereich G-Box Übersicht
+panorama_194E31D5_0DB4_7CC5_41A7_47F97EAEACB4.label = Praxisbereich Gasregelstrecken
+panorama_194E14C8_0DB5_A4CA_41A1_6D891D8D0E92.label = Praxisbereich Mitte
+panorama_194E0AD2_0DB5_ACDE_4186_D1721249BFAC.label = Praxisbereich Schulungsmotoren
+panorama_194E50D0_0DB5_BCDA_41A5_BD4ECECFC228.label = Praxisbereich Wärmepumpen
+panorama_194E071F_0DB5_A545_418F_9A4D46666736.label = Praxisbereich zu Training 2
+panorama_194E4D2E_0DB5_A546_4192_53B95E254FB4.label = Praxisbereich zu Training 3
+panorama_194E0331_0DB5_9D5A_41A8_15881F1BB120.label = TC draußen nah
+panorama_194E6020_0DB5_FB7B_419F_C7D008A12987.label = Training 1
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 3
